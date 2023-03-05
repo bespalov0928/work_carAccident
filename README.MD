@@ -1,3 +1,5 @@
+﻿[![Build Status](https://app.travis-ci.com/bespalov0928/work_carAccident.svg?branch=master)](https://app.travis-ci.com/bespalov0928/work_carAccident)
+
 ### О проекте
 Проект - Автонарушители
 В системе существуют две роли (пользователь, автоинспектор).
