@@ -13,3 +13,4 @@
 * jacoco
 * travic
 * lombok
+* Checkstyle 
