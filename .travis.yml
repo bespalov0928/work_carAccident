@@ -10,3 +10,11 @@ sudo: false
 # Здесь используется сторонний сервис https://codecov.io/
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+
+# Отправлять уведомление на почту youremail@smtp.ru (Изменить на свою) если сборка упала
+notifications:
+  email:
+    recipients:
+      - bespalov0928@mail.ru
+      on_success: never # default: change
+      on_failure: always # default: always
